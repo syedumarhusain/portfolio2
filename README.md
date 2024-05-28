@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
@@ -77,4 +77,4 @@ Give a ⭐ if you like this website!
 <a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 =======
 # portfolio2
->>>>>>> b5120c6cd50f15f462401720359a956213d47894
+>>>>>>> b5120c6cd50f15f462401720359a956213d47894 -->
